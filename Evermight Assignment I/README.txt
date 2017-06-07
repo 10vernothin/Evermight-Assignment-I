@@ -19,7 +19,7 @@ Thank you, I hope you respond soon.
 ~~~~~~~~~~~~~~~~~~~~~
 
 
-To start, please drag the "EVERMIGHT ASSIGNMENT I" folder to your www.directory, then go on the server and click on "Start.php".
+To start, please drag the "EVERMIGHT ASSIGNMENT I" folder (the directory that this file is in) to your www.directory (or an equivalent server directory), then go on the server and click on "Start.php".
 
 
 
