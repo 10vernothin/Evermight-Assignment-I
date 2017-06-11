@@ -61,7 +61,7 @@ class PostsController {
 		}
 	}
 	
-	//validate does not need much because it's generalized
+	//validate does not need much because it's not generalized
 	public function validate() {
 		$server = Server::getInstance();
 		$dbname = "assignmentdatabase";
