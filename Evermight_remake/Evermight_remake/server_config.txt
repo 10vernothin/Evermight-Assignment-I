@@ -1,0 +1,7 @@
+#This is the configuration file for the server ###
+#Please put all comments in hashtags ###
+#Please do not change the formatting, especially the spaces between the words, dollar signs and single quotation marks ###
+
+$servername = 'localhost:3306' ###
+$username = 'root' ###
+$password = ''
